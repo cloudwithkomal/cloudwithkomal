@@ -6,12 +6,11 @@
 
 ---
 </div>
-
 ### 📖 About Me
-- 🔹 **Currently Working On:** [Coffee Shop Website](https://github.com/komals-1494/komal-sharma-coffeeshop) & Bootcamp Projects
+- 🔹 **Currently Working On:** [Coffee Shop Website](https://github.com/cloudwithkomal/komal-sharma-coffeeshop) & Bootcamp Projects
 - 🔹 **Learning:** AWS, Terraform, Kubernetes, and DevOps
 - 🔹 **Goal:** Secure a role as a Cloud Engineer in 2025
-- 🔹 **Reach Me At:** [LinkedIn](https://www.linkedin.com/in/komal-sharma-cs/)
+- 🔹 **Reach Me At:** [LinkedIn](https://linkedin.com/in/komal-sharma-cs)
 
 ---
 
@@ -46,6 +45,30 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/CI%2FCD-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="CI/CD">
 </div>
+
+---
+
+### 📊 GitHub Stats
+![Komal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cloudwithkomal&show_icons=true&theme=radical)
+
+---
+
+### 🌟 Featured Projects
+
+#### **[Coffee Shop Website](https://github.com/cloudwithkomal/komal-sharma-coffeeshop)**
+- **Description:** An interactive website project built as part of a software engineering bootcamp.
+- **Technologies Used:** HTML, CSS, JavaScript
+
+#### **[Two-Tier Web Application Automation](https://github.com/cloudwithkomal/two-tier-web-application-automation-impressive-neighbour)**
+- **Description:** Automated deployment of a two-tier web application on AWS using Terraform and Ansible.
+- **Technologies Used:** AWS, Terraform, Ansible
+
+---
+
+### 🔗 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/komal-sharma-cs)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cloudwithkomal)
+
 
 ---
 
