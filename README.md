@@ -2,7 +2,7 @@
 
 # ✨ Hi, I'm Komal Sharma!
 
-🚀 Aspiring Cloud Engineer | ☁️ AWS Enthusiast | 💻 Software Engineering Bootcamp Student
+🚀 Cloud Engineer | ☁️ AWS Enthusiast | 💻 Software Engineering Bootcamp Student
 
 ---
 </div>
