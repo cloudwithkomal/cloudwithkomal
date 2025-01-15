@@ -8,7 +8,7 @@
 - 🔹 **Currently Working On:** [Coffee Shop Website](https://github.com/komals-1494/komal-sharma-coffeeshop) & Bootcamp Projects
 - 🔹 **Learning:** AWS, Terraform, Kubernetes, and DevOps
 - 🔹 **Goal:** Secure a role as a Cloud Engineer in 2025
-- 🔹 **Reach Me At:** [LinkedIn](www.linkedin.com/in/komal-sharma-cs)
+- 🔹 **Reach Me At:** [LinkedIn](https://www.linkedin.com/in/komal-sharma-cs/)
 
 ---
 
@@ -54,7 +54,7 @@
 ---
 
 ### 🔗 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/komal-sharma-cs)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/komal-sharma-cs/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/komals-1494)
 
 
