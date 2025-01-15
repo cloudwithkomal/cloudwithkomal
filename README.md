@@ -1,3 +1,5 @@
+<div align="center">
+
 # ✨ Hi, I'm Komal Sharma!
 
 🚀 Aspiring Cloud Engineer | ☁️ AWS Enthusiast | 💻 Software Engineering Bootcamp Student
@@ -11,6 +13,66 @@
 - 🔹 **Reach Me At:** [LinkedIn](https://www.linkedin.com/in/komal-sharma-cs/)
 
 ---
+
+### 🔧 Skills & Technologies
+#### **Programming Languages:**
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+</div>
+
+#### **Cloud Platforms:**
+<div>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure">
+</div>
+
+#### **Infrastructure as Code:**
+<div>
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible">
+</div>
+
+#### **Containerization & Orchestration:**
+<div>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+</div>
+
+#### **Other Tools & Platforms:**
+<div>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/CI%2FCD-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="CI/CD">
+</div>
+
+---
+
+### 📊 GitHub Stats
+![Komal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=komals-1494&show_icons=true&theme=radical)
+
+---
+
+### 🌟 Featured Projects
+
+#### **[Coffee Shop Website](https://github.com/komals-1494/komal-sharma-coffeeshop)**
+- **Description:** An interactive website project built as part of a software engineering bootcamp.
+- **Technologies Used:** HTML, CSS, JavaScript
+
+#### **[Two-Tier Web Application Automation](https://github.com/komals-1494/two-tier-web-application-automation-impressive-neighbour)**
+- **Description:** Automated deployment of a two-tier web application on AWS using Terraform and Ansible.
+- **Technologies Used:** AWS, Terraform, Ansible
+
+---
+
+### 🔗 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/komal-sharma-cs/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/komals-1494)
+
+</div>
+
+
+<!--
 
 ### 🔧 Skills & Technologies
 #### **Programming Languages:**
@@ -36,31 +98,9 @@
 
 ---
 
-### 📊 GitHub Stats
-![Komal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=komals-1494&show_icons=true&theme=radical)
-
----
-
-### 🌟 Featured Projects
-
-#### **[Coffee Shop Website](https://github.com/komals-1494/komal-sharma-coffeeshop)**
-- **Description:** An interactive website project built as part of a software engineering bootcamp.
-- **Technologies Used:** HTML, CSS, JavaScript
-
-#### **[Two-Tier Web Application Automation](https://github.com/komals-1494/two-tier-web-application-automation-impressive-neighbour)**
-- **Description:** Automated deployment of a two-tier web application on AWS using Terraform and Ansible.
-- **Technologies Used:** AWS, Terraform, Ansible
-
----
-
-### 🔗 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/komal-sharma-cs/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/komals-1494)
-
-
 <!--
 **komals-1494/komals-1494** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
