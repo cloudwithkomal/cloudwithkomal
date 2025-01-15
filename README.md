@@ -5,7 +5,7 @@
 ---
 
 ### 📖 About Me
-- 🔹 **Currently Working On:** [Coffee Shop Website](https://github.com/KomalSharma/komal-sharma-coffeeshop) & Bootcamp Projects
+- 🔹 **Currently Working On:** [Coffee Shop Website](https://github.com/komals-1494/komal-sharma-coffeeshop) & Bootcamp Projects
 - 🔹 **Learning:** AWS, Terraform, Kubernetes, and DevOps
 - 🔹 **Goal:** Secure a role as a Cloud Engineer in 2025
 - 🔹 **Reach Me At:** [LinkedIn](www.linkedin.com/in/komal-sharma-cs)
@@ -37,25 +37,25 @@
 ---
 
 ### 📊 GitHub Stats
-![Komal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KomalSharma&show_icons=true&theme=radical)
+![Komal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=komals-1494&show_icons=true&theme=radical)
 
 ---
 
 ### 🌟 Featured Projects
 
-#### **[Coffee Shop Website](https://github.com/KomalSharma/komal-sharma-coffeeshop)**
+#### **[Coffee Shop Website](https://github.com/komals-1494/komal-sharma-coffeeshop)**
 - **Description:** An interactive website project built as part of a software engineering bootcamp.
 - **Technologies Used:** HTML, CSS, JavaScript
 
-#### **[Two-Tier Web Application Automation](https://github.com/KomalSharma/two-tier-web-application-automation-impressive-neighbour)**
+#### **[Two-Tier Web Application Automation](https://github.com/komals-1494/two-tier-web-application-automation-impressive-neighbour)**
 - **Description:** Automated deployment of a two-tier web application on AWS using Terraform and Ansible.
 - **Technologies Used:** AWS, Terraform, Ansible
 
 ---
 
 ### 🔗 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KomalSharma)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/komal-sharma-cs)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/komals-1494)
 
 
 <!--
