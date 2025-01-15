@@ -4,8 +4,8 @@
 
 🚀 Aspiring Cloud Engineer | ☁️ AWS Enthusiast | 💻 Software Engineering Bootcamp Student
 
-</div>
 ---
+</div>
 
 ### 📖 About Me
 - 🔹 **Currently Working On:** [Coffee Shop Website](https://github.com/komals-1494/komal-sharma-coffeeshop) & Bootcamp Projects
