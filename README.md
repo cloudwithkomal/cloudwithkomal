@@ -9,7 +9,7 @@
 </div>
 
 ### 📖 About Me
-- 🔹 **Currently Working On:** [Coffee Shop Website](https://github.com/cloudwithkomal/komal-sharma-coffeeshop) & Bootcamp Projects
+- 🔹 **Currently Working On:** Brainstation Bootcamp Projects
 - 🔹 **Learning:** AWS, Terraform, Kubernetes, and DevOps
 - 🔹 **Goal:** Secure a role as a Cloud Engineer in 2025
 - 🔹 **Reach Me At:** [LinkedIn](https://linkedin.com/in/komal-sharma-cs)
@@ -56,10 +56,6 @@
 ---
 
 ### 🌟 Featured Projects
-
-#### **[Coffee Shop Website](https://github.com/cloudwithkomal/komal-sharma-coffeeshop)**
-- **Description:** An interactive website project built as part of a software engineering bootcamp.
-- **Technologies Used:** HTML, CSS, JavaScript
 
 #### **[Two-Tier Web Application Automation](https://github.com/cloudwithkomal/two-tier-web-application-automation-impressive-neighbour)**
 - **Description:** Automated deployment of a two-tier web application on AWS using Terraform and Ansible.
