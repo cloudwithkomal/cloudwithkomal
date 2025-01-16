@@ -70,53 +70,6 @@
 
 ---
 
-### 📊 GitHub Stats
-![Komal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=komals-1494&show_icons=true&theme=radical)
-
----
-
-### 🌟 Featured Projects
-
-#### **[Coffee Shop Website](https://github.com/komals-1494/komal-sharma-coffeeshop)**
-- **Description:** An interactive website project built as part of a software engineering bootcamp.
-- **Technologies Used:** HTML, CSS, JavaScript
-
-#### **[Two-Tier Web Application Automation](https://github.com/komals-1494/two-tier-web-application-automation-impressive-neighbour)**
-- **Description:** Automated deployment of a two-tier web application on AWS using Terraform and Ansible.
-- **Technologies Used:** AWS, Terraform, Ansible
-
----
-
-### 🔗 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/komal-sharma-cs/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/komals-1494)
-
-<!--
-
-### 🔧 Skills & Technologies
-#### **Programming Languages:**
-- Python
-- JavaScript
-
-#### **Cloud Platforms:**
-- AWS (S3, CloudFront, EC2, IAM)
-- Azure
-
-#### **Infrastructure as Code:**
-- Terraform
-- Ansible
-
-#### **Containerization & Orchestration:**
-- Docker
-- Kubernetes
-
-#### **Other Tools & Platforms:**
-- Git & GitHub
-- CI/CD Pipelines
-- Linux
-
----
-
 <!--
 **komals-1494/komals-1494** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!--
